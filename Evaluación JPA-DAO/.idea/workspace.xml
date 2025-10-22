@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cf9c8ed-ff77-4cb7-8412-3c563f038d3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JPA_Franco/src/main/java/entities/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPA_Franco/src/main/java/entities/Categoría.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPA_Franco/src/main/java/entities/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPA_Franco/src/main/java/run/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPA_Franco/src/main/java/services/dao/MyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPA_Franco/src/main/java/services/interfaces/ICRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPA_Franco/src/main/java/util/JPAConexion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/config/JPAUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/entities/Mascota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/repository/IMascota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/repository/dao/MascotaDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/run/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/java/run/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/target/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/target/classes/config/JPAUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/target/classes/entities/Mascota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/target/classes/repository/IMascota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/target/classes/repository/dao/MascotaDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/target/classes/run/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/target/classes/run/Menu.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="34Odri4nZSs2SjOKwmgeDxaHbOW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Downloads/JPA-DAO-semana9/Evaluación JPA-DAO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf9c8ed-ff77-4cb7-8412-3c563f038d3d" name="Changes" comment="" />
+      <created>1761088753459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761088753459</updated>
+      <workItem from="1761088754852" duration="3165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
